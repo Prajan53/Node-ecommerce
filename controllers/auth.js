@@ -7,7 +7,7 @@ const Transporter = mailer.createTransport(
   nodeTransporter({
     auth: {
       api_key:
-       
+        "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",
     },
   })
 );
